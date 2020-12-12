@@ -1,8 +1,28 @@
 {
-  "posts": [
+  "users": [
     {
       "id": 1,
-      "title": "hello"
+      "firstName": "Johanne",
+      "lastName": "Eva",
+      "avatar": "https://ui-avatars.com/api/?name=Johanne+Eva"
+    },
+    {
+      "id": 2,
+      "firstName": "Torild",
+      "lastName": "Bjarne",
+      "avatar": "https://ui-avatars.com/api/?name=Torild+Bjarne"
+    },
+    {
+      "id": 3,
+      "firstName": "Hanna",
+      "lastName": "Mikaela",
+      "avatar": "https://ui-avatars.com/api/?name=Hanna+Mikaela"
+    },
+    {
+      "id": 4,
+      "firstName": "Vilde",
+      "lastName": "Sofie",
+      "avatar": "https://ui-avatars.com/api/?name=Vilde+Sofie"
     }
   ],
   "profile": {
