@@ -25,6 +25,61 @@
       "avatar": "https://ui-avatars.com/api/?name=Vilde+Sofie"
     }
   ],
+  "posts": [
+    {
+      "title": "Curabitur gravida",
+      "content": "Aliquam commodo elit nec ipsum laoreet scelerisque. Fusce consectetur augue in arcu lobortis, eu rutrum ipsum pulvinar. Nam eleifend felis ac tincidunt malesuada. Fusce faucibus odio eu leo faucibus eleifend. Donec porta aliquam nisi, ut consequat urna. Fusce quis sem dignissim, eleifend libero at, lacinia leo. Nunc fringilla facilisis sem quis elementum. Nulla molestie, sapien quis congue iaculis, tellus tellus pharetra turpis, quis posuere ipsum ligula sit amet eros.",
+      "userId": 3,
+      "comments": [
+        {
+          "userId": 4,
+          "comment": "Vusce venenatis nunc ut metus dignissim egestas."
+        },
+        {
+          "userId": 1,
+          "comment": "Pellentesque tempor mauris dui, vitae egestas turpis facilisis porttitor."
+        }
+      ]
+    },
+    {
+      "title": "Sed eget urna",
+      "content": "Maecenas ut egestas sem. Cras a ex arcu. Suspendisse in lectus ut magna vulputate laoreet. Duis sollicitudin in ante vitae euismod. Pellentesque in felis libero. Quisque non lacus id nisl porttitor lobortis. In et volutpat metus. Pellentesque ornare vestibulum justo. In hac habitasse platea dictumst. Vivamus varius elementum erat, non consectetur nisi aliquet non.",
+      "userId": 4,
+      "comments": [
+        {
+          "userId": 1,
+          "comment": "Aenean mollis vulputate pulvinar."
+        },
+        {
+          "userId": 2,
+          "comment": "Nam a orci cursus, iaculis nisi tempor, iaculis nunc."
+        },
+        {
+          "userId": 3,
+          "comment": "Praesent sagittis enim eu ligula tincidunt."
+        }
+      ]
+    },
+    {
+      "title": "Cras a ex arcu.",
+      "content": "Suspendisse in lectus ut magna vulputate laoreet. Duis sollicitudin in ante vitae euismod. Pellentesque in felis libero. Quisque non lacus id nisl porttitor lobortis. In et volutpat metus. Pellentesque ornare vestibulum justo. In hac habitasse platea dictumst.",
+      "userId": 1,
+      "comments": [
+        {
+          "userId": 2,
+          "comment": "Aliquam commodo elit nec ipsum."
+        },
+        {
+          "userId": 3,
+          "comment": "Nunc fringilla facilisis sem quis elementum.."
+        },
+        {
+          "userId": 4,
+          "comment": "Nam a orci cursus, iaculis nisi tempor, iaculis nunc."
+        }
+      ]
+    }
+  ],
   "profile": {
     "name": "typicode"
   }
